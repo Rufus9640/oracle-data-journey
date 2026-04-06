@@ -159,6 +159,7 @@ Add tags such as:
 
 ![Tagging](images/faw-instance/create-instance-tags-optional.png)
 
+
 ---
 
 ## 🧱 Step 13: Final Creation

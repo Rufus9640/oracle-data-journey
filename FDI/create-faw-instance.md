@@ -84,7 +84,6 @@ Identity & Security → Policies → Create Policy
 Allow group id <group_ocid> to manage all-resources in tenancy
 ```
 
-![Policy Creation](images/faw-instance/step05-policy-creation.png)
 
 ---
 
